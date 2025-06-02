@@ -7,7 +7,7 @@ This repository contains two scripts for processing and visualizing temporal and
 
 ---
 
-## 1. Prerequisites
+# Prerequisites
 
 Install the required tools and Python libraries:
 
