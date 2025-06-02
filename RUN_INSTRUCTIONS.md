@@ -1,4 +1,4 @@
-# 🧪 How to Run the Temporal Data Processing Pipelines
+# How to Run the Temporal Data Processing Pipelines
 
 This repository contains two scripts for processing and visualizing temporal and spatial sequencing data:
 
@@ -7,7 +7,7 @@ This repository contains two scripts for processing and visualizing temporal and
 
 ---
 
-## 🛠️ 1. Prerequisites
+## 1. Prerequisites
 
 Install the required tools and Python libraries:
 
